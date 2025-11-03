@@ -1,0 +1,18 @@
+Distancia de 1 a 1: 0
+Camino: 1
+---
+Distancia de 1 a 2: 1
+Camino: 1 -> 2
+---
+Distancia de 1 a 3: 1
+Camino: 1 -> 3
+---
+Distancia de 1 a 4: 2
+Camino: 1 -> 2 -> 4
+---
+Distancia de 1 a 5: 2
+Camino: 1 -> 3 -> 5
+---
+Distancia de 1 a 6: 3
+Camino: 1 -> 2 -> 4 -> 6
+---

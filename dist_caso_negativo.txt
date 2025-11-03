@@ -1,0 +1,2 @@
+no soportado (pesos negativos)
+Explicación: Dijkstra no funciona con pesos negativos porque asume que una vez que un nodo es marcado como visitado, su distancia mínima ha sido encontrada. Con pesos negativos, esta suposición no se cumple y puede llevar a resultados incorrectos.
